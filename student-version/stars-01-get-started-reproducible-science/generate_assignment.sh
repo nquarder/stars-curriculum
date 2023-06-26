@@ -1,0 +1,1 @@
+nbgrader generate_assignment -f 01-stars-get-started-reproducible-science --ClearSolutions.code_stub=""
